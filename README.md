@@ -22,15 +22,10 @@
 <p>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/1742866?s=200&v=4" width="25" height="25" alt="MIT App Inventor" style="margin-right:6px; border-radius:4px;" />
-  <span style="background: white; height: 27px; line-height: 27px; padding: 0 8px; border-radius: 4px; font-weight: 600; color: black; font-family: Arial, sans-serif; user-select: none;">
-    MIT App Inventor
-  </span>
-</span>
+  <img src="MIT_App_Inventor.png"
+     alt="MIT App Inventor"
+     style="height:27px; margin-right:6px; vertical-align:middle;" />
 
-</p>
 
 ### 📡 Protocols
 <p>
