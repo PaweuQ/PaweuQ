@@ -22,7 +22,7 @@
 <p>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://avatars.githubusercontent.com/u/1742866?s=200&v=4"/>
+  <img src="https://img.shields.io/badge/MIT_App_Inventor-FF9100?style=for-the-badge&logo=appinventor&logoColor=white"/>
 
 </p>
 
