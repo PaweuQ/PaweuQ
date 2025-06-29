@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Paweł </h1>
+<h3 align="center">Hobbyist microcontroller programmer</h3>
+<a href="https://github.com/PaweuQ" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="30" width="40"/>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40"/></a> </p>
