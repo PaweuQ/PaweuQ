@@ -1,24 +1,31 @@
-## Hi there 👋
-
-<!--
-**PaweuQ/PaweuQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi 👋, I'm Paweł </h1>
 <h3 align="center">Hobbyist microcontroller programmer</h3>
 <a href="https://github.com/PaweuQ" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="30" width="40"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40"/></a> </p>
+## 🔧 Skills & Tools
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🔩 Boards
+<p>
+  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+</p>
+
+### 🧰 Environments
+<p>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/MIT_App_Inventor-AE2E2E?style=for-the-badge&logo=app-inventor&logoColor=white" />
+</p>
+
+### 📡 Protocols
+<p>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+</p>
