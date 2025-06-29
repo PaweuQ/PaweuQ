@@ -36,3 +36,19 @@
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
 </p>
+<span style="
+  background: white;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 20px;
+  padding: 0 8px;
+  border-radius: 3px;
+  user-select: none;
+  display: inline-block;
+  height: 20px;
+  vertical-align: middle;
+">
+  MIT App Inventor
+</span>
