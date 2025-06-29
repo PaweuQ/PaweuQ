@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Paweł </h1>
 <h3 align="center">Hobbyist microcontroller programmer</h3>
-<a href="https://github.com/PaweuQ" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="30" width="40"/>
 
 ## 🔧 Skills & Tools
 
@@ -31,19 +30,3 @@
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
 </p>
-<span style="
-  background: white;
-  color: black;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 600;
-  font-size: 11px;
-  line-height: 20px;
-  padding: 0 8px;
-  border-radius: 3px;
-  user-select: none;
-  display: inline-block;
-  height: 20px;
-  vertical-align: middle;
-">
-  MIT App Inventor
-</span>
