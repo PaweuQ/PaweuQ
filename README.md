@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <span style="display:inline-flex; align-items:center; background:#fff; border-radius:12px; padding:0 10px; font-weight:600; font-family:sans-serif; height:28px; margin-left:6px; box-shadow: 0 0 2px rgba(0,0,0,0.15);">
-    <img src="https://avatars.githubusercontent.com/u/1742866?s=200&v=4" width="20" height="20" alt="MIT App Inventor" style="margin-right:6px; border-radius:4px;" />
+    <img src="https://avatars.githubusercontent.com/u/1742866?s=200&v=4" width="22" height="22" alt="MIT App Inventor" style="margin-right:6px; border-radius:4px;" />
     MIT App Inventor
   </span>
 </p>
