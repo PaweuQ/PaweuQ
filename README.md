@@ -22,7 +22,7 @@
 <p>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://avatars.githubusercontent.com/u/1742866?s=200&v=4" width="25" height="25" alt="MIT App Inventor" style="margin-right:6px; border-radius:4px;" />
+  <img src="https://avatars.githubusercontent.com/u/1742866?s=200&v=4" width="30" height="30" alt="MIT App Inventor" style="margin-right:6px; border-radius:4px;" />
 </p>
 
 ### 📡 Protocols
